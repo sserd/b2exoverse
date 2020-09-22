@@ -1,0 +1,13 @@
+.u-section-1 {background-image: url("images/logotitle.jpg"); background-position: 50% 50%}
+.u-section-1 .u-sheet-1 {min-height: 891px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 598px} }
+
+@media (max-width: 991px){ .u-section-1 {min-height: 263px}
+.u-section-1 .u-sheet-1 {min-height: 462px} }
+
+@media (max-width: 767px){ .u-section-1 {min-height: 169px}
+.u-section-1 .u-sheet-1 {min-height: 376px} }
+
+@media (max-width: 575px){ .u-section-1 {min-height: 106px}
+.u-section-1 .u-sheet-1 {min-height: 344px} }
