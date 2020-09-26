@@ -4,7 +4,7 @@
 .u-section-1 .u-container-layout-1 {padding: 30px}
 .u-section-1 .u-text-1 {font-size: 3.75rem; animation-duration: 1000ms; margin: 64px 42px 0}
 .u-section-1 .u-text-2 {animation-duration: 1000ms; margin: 29px 42px 0}
-.u-section-1 .u-text-3 {font-style: italic; font-family: Aclonica; font-weight: 400; margin: -71px 23px 0 0} 
+.u-section-1 .u-text-3 {font-style: italic; font-family: Aclonica; font-size: 3rem; font-weight: bold; margin: -71px 23px 0 0} 
 
 @media (max-width: 1199px){ .u-section-1 {min-height: 1784px}
 .u-section-1 .u-layout-wrap-1 {margin-right: initial; margin-left: initial; width: auto}
